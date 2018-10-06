@@ -1,3 +1,7 @@
+# Anadroid Dev Buid the app! 
+### #Inceptum2k18
+
+
 **Note:**
 ```
 Following text is just the guidelines for building the app.
@@ -87,6 +91,13 @@ On click of these corresponding bottom a new activity will up.
    - 5 caching of TvShow Detail Activity data.
    - 5 Architecture followed for this part( eg: MVP, MVM)
    - 5 material design
+   
+
 **Screenshot for QuestionsActivity***
 
 ![small screen](https://user-images.githubusercontent.com/20511163/46569546-5852a280-c974-11e8-9558-073800ffd928.png)
+
+**For TV Show List Activity**
+
+![tvshow](https://user-images.githubusercontent.com/20511163/46569665-e3806800-c975-11e8-816c-5255cd64d647.png)
+
