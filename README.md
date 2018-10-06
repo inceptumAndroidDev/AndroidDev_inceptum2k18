@@ -101,3 +101,49 @@ On click of these corresponding bottom a new activity will up.
 
 ![tvshow](https://user-images.githubusercontent.com/20511163/46569665-e3806800-c975-11e8-816c-5255cd64d647.png)
 
+## How to submit the code?
+
+<b>Creating the repo</b>
+
+Got to
+ https://github.com/orgs/inceptumAndroidDev/dashboard and from the menu on left side of page create a new public repo named 
+ as fullname_projectName (eg:  ashwani_prasad_easyapp). 
+ 
+**imp: Intitalize the repo with .gitignore for Android and readme.MD**
+
+Clone the newly created repo to your system using the command 
+
+>git clone https://github.com/inceptumAndroidDev/<fullname_demo>
+
+Add all the files to the coned folder
+
+To stage all the changes run the command
+ 
+```
+git add –all
+
+git commit –m “username project name uploaded”
+```
+
+To push all the files to the repo
+
+```
+git push –u origin master
+```
+
+Check the status of git 
+
+```
+git status
+```
+
+You should get something like this
+
+```
+  On branch master
+  Your branch is up to date with 'origin/master'.
+  nothing to commit, working tree clean
+```
+
+Please check that the all file are uploaded to the repo, then you are good to go:)
+
