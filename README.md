@@ -51,9 +51,9 @@ On click of these corresponding bottom a new activity will up.
 * This data should be persistent and should be stored in the database.
 * You can make use of RoomDb or SqlLite or any other Db of your choice.
 
-**TvShow Activity** will show a list of TvShows using the tvmaze api. [Api docs](api.tvmaze.com)
+**TvShow Activity** will show a list of TvShows using the tvmaze api. Api docs:  api.tvmaze.com
 
-* You will get the list of shows in JSON format [here]( http://api.tvmaze.com/shows)
+* You will get the list of shows in JSON format here:  http://api.tvmaze.com/shows
 * Display all the TvShow image and name in a recycler view
 * onClick of the item of the list should open up the activity which shows the details of the selected TvShow.
 * **TvShowDetailActivity** The activity should contain the following
