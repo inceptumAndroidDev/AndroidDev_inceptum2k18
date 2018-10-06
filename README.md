@@ -1,4 +1,4 @@
-# Anadroid Dev Buid the app! 
+# Android Dev Buid the app! 
 ### #Inceptum2k18
 
 
@@ -63,7 +63,7 @@ On click of these corresponding bottom a new activity will up.
     - 4. TvShow Summery
     - 5. Average Rating of the show
     - 6. List of all the cast with (character name in Bold and actor/actress name along with Date of Birth)
-## How will the points be rewarded?
+## How will points be rewarded?
 
 **Total Points 150**
 
